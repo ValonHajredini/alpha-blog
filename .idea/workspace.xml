@@ -4,8 +4,7 @@
     <list default="true" id="384494b6-c68c-4e99-8f5d-e81105682cdb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/costum.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/costum.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/articles/show.html.erb" afterPath="$PROJECT_DIR$/app/views/articles/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_messages.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_messages.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/articles/index.html.erb" afterPath="$PROJECT_DIR$/app/views/articles/index.html.erb" />
     </list>
     <ignored path="alpha-blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,21 +31,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <file leaf-file-name="costum.css.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/costum.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="297">
+              <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="costum.css.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/costum.css.scss">
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/articles/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="711">
-              <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+            <state relative-caret-position="324">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -115,18 +114,8 @@
       <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/articles/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/articles/new.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="252">
+              <caret line="14" column="0" selection-start-line="11" selection-start-column="1" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -147,7 +136,6 @@
         <option value="$PROJECT_DIR$/db/migrate/20160611104711_add_timestamp_to_articles.rb" />
         <option value="$PROJECT_DIR$/app/models/article.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/articles/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/layouts/_navigation.html.erb" />
@@ -163,6 +151,7 @@
         <option value="$PROJECT_DIR$/app/controllers/articles_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_messages.html.erb" />
         <option value="$PROJECT_DIR$/app/views/articles/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/articles/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/costum.css.scss" />
       </list>
     </option>
@@ -216,7 +205,7 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="cos&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/assets/stylesheets/costum.css.scss&#10;show&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/articles/show.html.erb&#10;artic&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/controllers/articles_controller.rb&#10;mess&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/layouts/_messages.html.erb&#10;appl&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/layouts/application.html.erb&#10;_form&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/articles/_form.html.erb&#10;edit&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/articles/edit.html.erb&#10;new&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/articles/new.html.erb&#10;gem&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/Gemfile&#10;art&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/controllers/articles_controller.rb&#10;sh&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/articles/show.html.erb&#10;arti&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/controllers/articles_controller.rb" />
+    <property name="SearchEverywhereHistoryKey" value="scss&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/assets/stylesheets/costum.css.scss&#10;cus&#9;null&#9;null&#10;inde&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/articles/index.html.erb&#10;show&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/articles/show.html.erb&#10;index&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/articles/index.html.erb&#10;cos&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/assets/stylesheets/costum.css.scss&#10;artic&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/controllers/articles_controller.rb&#10;mess&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/layouts/_messages.html.erb&#10;appl&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/layouts/application.html.erb&#10;_form&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/articles/_form.html.erb&#10;edit&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/articles/edit.html.erb&#10;new&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/articles/new.html.erb&#10;gem&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/Gemfile&#10;art&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/controllers/articles_controller.rb&#10;sh&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/views/articles/show.html.erb&#10;arti&#9;FILE&#9;file:///home/valon/workspace/alpha-blog/app/controllers/articles_controller.rb" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -427,12 +416,12 @@
       <workItem from="1465634788136" duration="236000" />
       <workItem from="1465637213500" duration="12169000" />
       <workItem from="1465742819559" duration="7676000" />
-      <workItem from="1465769280585" duration="4469000" />
+      <workItem from="1465769280585" duration="5489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28218000" />
+    <option name="totallyTimeSpent" value="29238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="758" height="875" extended-state="0" />
@@ -514,6 +503,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -650,13 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/articles/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -769,16 +752,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/articles/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="252">
+          <caret line="14" column="0" selection-start-line="11" selection-start-column="1" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/app/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="3" column="19044" selection-start-line="3" selection-start-column="19044" selection-end-line="3" selection-end-column="19044" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/articles/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/costum.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+        <state relative-caret-position="297">
+          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
           <folding />
         </state>
       </provider>
