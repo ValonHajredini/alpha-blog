@@ -1,6 +1,6 @@
 class User < ActiveRecord::Base
 
-  has_secure_password
+
   before_save {self.email = email.downcase}
   validates :username,  presence: true, length: {minimum: 3, maximum: 25},
             uniqueness: { casse_sensitive: false}
@@ -11,5 +11,6 @@ class User < ActiveRecord::Base
 
 
   has_many :articles
+  has_secure_password
 
 end
